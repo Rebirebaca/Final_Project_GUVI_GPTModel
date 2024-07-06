@@ -76,9 +76,12 @@ https://huggingface.co/spaces/Rebaca/Guvi_GPT
 This application is designed to provide information to demonstration of a language model and is not affiliated with GUVI.This model may not always be accurate or appropriate. Use it at your own discretion.
 
 ## Reference
-Hugging Face Spaces Documentation: https://huggingface.co/docs/hub/en/spaces-overview
-Streamlit Documentation: https://docs.streamlit.io/
-TIDB Cloud Documentaion: https://docs.pingcap.com/tidbcloud/
+### Hugging Face Spaces Documentation: 
+https://huggingface.co/docs/hub/en/spaces-overview
+### Streamlit Documentation: 
+https://docs.streamlit.io/
+### TIDB Cloud Documentaion: 
+https://docs.pingcap.com/tidbcloud/
 
 
 
